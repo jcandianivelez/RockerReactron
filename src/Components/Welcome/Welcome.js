@@ -1,7 +1,5 @@
 import React from "react";
-import { HomeButton } from "../Styled/Buttons";
-import {HomeContainer, ButtonContainer} from '../Styled/Containers'
-import { Logo} from '../Styled/Images'
+import {HomeContainer,ButtonContainer,HomeButton,Logo} from '../Styled/index';
 
 const logo = require("../../Images/logo.png")
 
